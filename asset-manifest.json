@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Portfoliofinal/static/css/main.b1f764eb.css",
-    "main.js": "/Portfoliofinal/static/js/main.f5524e4d.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Portfoliofinal/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfoliofinal/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/Portfoliofinal/static/css/main.49db80f2.css",
+    "main.js": "/Portfoliofinal/static/js/main.3e847dbb.js",
+    "static/js/415.fb51c11d.chunk.js": "/Portfoliofinal/static/js/415.fb51c11d.chunk.js",
+    "static/js/787.35dd0f9c.chunk.js": "/Portfoliofinal/static/js/787.35dd0f9c.chunk.js",
     "static/media/untitled2.png": "/Portfoliofinal/static/media/untitled2.7c027bc3135901d35b29.png",
     "static/media/logo.png": "/Portfoliofinal/static/media/logo.44a57ac941dc80eb1c84.png",
     "static/media/slkspace.png": "/Portfoliofinal/static/media/slkspace.abbcf9494a9ced333493.png",
@@ -15,13 +15,13 @@
     "static/media/avatar.svg": "/Portfoliofinal/static/media/avatar.ef2c6b5a416be46708a9fc39ef92757d.svg",
     "static/media/pre.svg": "/Portfoliofinal/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfoliofinal/index.html",
-    "main.b1f764eb.css.map": "/Portfoliofinal/static/css/main.b1f764eb.css.map",
-    "main.f5524e4d.js.map": "/Portfoliofinal/static/js/main.f5524e4d.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Portfoliofinal/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfoliofinal/static/js/787.1ed0c42c.chunk.js.map"
+    "main.49db80f2.css.map": "/Portfoliofinal/static/css/main.49db80f2.css.map",
+    "main.3e847dbb.js.map": "/Portfoliofinal/static/js/main.3e847dbb.js.map",
+    "415.fb51c11d.chunk.js.map": "/Portfoliofinal/static/js/415.fb51c11d.chunk.js.map",
+    "787.35dd0f9c.chunk.js.map": "/Portfoliofinal/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1f764eb.css",
-    "static/js/main.f5524e4d.js"
+    "static/css/main.49db80f2.css",
+    "static/js/main.3e847dbb.js"
   ]
 }
