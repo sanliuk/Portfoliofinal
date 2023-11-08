@@ -16,12 +16,28 @@ import {
   SiNextdotjs,
   SiSolidity,
   SiPostgresql,
+  SiBlender,
+  SiUnity,
+  SiUnrealengine,
+  SiAdobeaftereffects,
+  SiAdobeillustrator,
+  SiAdobephotoshop,
+  SiAdobeindesign,
+  SiAdobepremierepro,
+  SiAndroid,
+  SiXcode,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+import { 
+  TbBrandGolang,
+  TbBrandCSharp,
+ } from "react-icons/tb";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+      <Col xs={4} md={2} className="tech-icons">
+        <TbBrandCSharp />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <CgCPlusPlus />
       </Col>
@@ -63,6 +79,36 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiBlender />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiUnity />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiUnrealengine />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobeaftereffects />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobeillustrator />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobephotoshop />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobeindesign />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobepremierepro />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAndroid />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiXcode />
       </Col>
     </Row>
   );
