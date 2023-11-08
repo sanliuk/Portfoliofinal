@@ -85,7 +85,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="/games/"
+                href="games/"
                 onClick={() => updateExpanded(false)}
               >
                 <FaGamepad style={{ marginBottom: "2px" }} /> Games
